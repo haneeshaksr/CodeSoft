@@ -168,9 +168,8 @@ Open terminal or command prompt.
 Run the command:
 ```bash
 python tictactoe.py
-```
 
----
+
 
 ## Sample Output
 
@@ -220,14 +219,76 @@ Task2_TicTacToeAI/
 ---
 
 ## Author
-Your Name
-
----
+KORIVI HEMA VENKATA LAKSHMI HANEESHA
 
 ## Internship
 CODSOFT Artificial Intelligence Internship
 
 #codsoft #python #artificialintelligence #tictactoe
 
+TASK 3
+# CODSOFT AI Internship – Task 3  
+# Image Captioning AI
+
+---
+
+## Description
+This project is an Image Captioning AI that generates meaningful captions for input images using Deep Learning techniques.
+
+It combines:
+- Computer Vision (for extracting image features)
+- Natural Language Processing (for generating captions)
+
+A pretrained model (BLIP / CNN + Transformer) is used to generate captions for images.
+
+---
+
+## Objective
+To build an AI system that can automatically understand an image and generate a relevant natural language description.
+
+---
+
+## Features
+- Generates captions for input images automatically
+- Uses pretrained deep learning model
+- Combines Computer Vision + NLP
+- Simple and easy to run
+- Works with image URLs or local images
+
+---
+
+## Technologies Used
+- Python
+- PyTorch
+- Hugging Face Transformers
+- PIL (Python Imaging Library)
+
+---
+
+## Python Concepts Used
+- Deep Learning Models
+- Pretrained Neural Networks
+- Image Processing
+- Function Handling
+- Library Usage
+
+---
+
+## How to Run the Project
+
+### Step 1
+Install required libraries:
+```bash
+pip install transformers torch pillow
+Task3_ImageCaptioning/
+│
+├── caption.py
+├── README.md
+└── screenshots/
 
 
+
+
+CODSOFT Artificial Intelligence Internship
+
+#codsoft #ai #machinelearning #python #imagecaptioning
