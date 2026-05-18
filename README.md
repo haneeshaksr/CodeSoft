@@ -200,6 +200,13 @@ Task2_TicTacToeAI/
 ├── tictactoe.py
 ├── README.md
 └── screenshots/
+<img width="710" height="768" alt="image" src="https://github.com/user-attachments/assets/9dfcc2ae-7fd8-45d8-af21-3b6ec9ce5c18" />
+<img width="329" height="687" alt="image" src="https://github.com/user-attachments/assets/16ace28a-6790-42bc-b54c-67145dbada08" />
+<img width="276" height="649" alt="image" src="https://github.com/user-attachments/assets/f42db383-33f8-42ab-a8f8-c424accad966" />
+<img width="293" height="652" alt="image" src="https://github.com/user-attachments/assets/92d146ea-f646-4c43-a8e8-a4b874eb90cb" />
+
+
+
 ```
 
 ---
